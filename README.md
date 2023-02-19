@@ -27,7 +27,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=saurabhaloneai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-<p align="left"> <a href="https://twitter.com/SaurabhAI_/status/1625053448269086721?s=20" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SaurabhAI_/status/1625053448269086721?s=20" target="blank"><img src="https://img.shields.io/twitter/follow/SaurabhAI_?logo=twitter&style=for-the-badge" alt="SaurabhAI_" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
