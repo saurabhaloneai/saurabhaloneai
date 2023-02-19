@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Saurabh Alone</h1>
 <h3 align="center">git commit -m "Hello, I'm a AI Developer "</h3>
 
+![Banner](https://www.canva.com/design/DAFbATUg7vc/xi0Sh5iGXy9pwvAo6MeP_A/watch?utm_content=DAFbATUg7vc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
 -- Hi there Myself Saurabh Alone 🙋🏻‍♂️<br>-- Exploring the tech Universe 🌎<br>-- Currently Learning AI and ML 🤖<br>
 
 
