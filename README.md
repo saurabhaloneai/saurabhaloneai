@@ -6,7 +6,7 @@
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/saurabhaloneai/100daysofcode)</code>:hourglass:     
-<code>[Classification](https://github.com/saurabhaloneai/cats-vs-dogs)</code>:cat:dog:  
+<code>[Classification](https://github.com/saurabhaloneai/cats-vs-dogs)</code>:cat:</code>:dog:  
 <code>[FDSL_python-codes](https://github.com/saurabhaloneai/FDSL_python-codes)</code>:robot: 
 
 
