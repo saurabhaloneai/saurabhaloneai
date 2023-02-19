@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=saurabhaloneai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/SaurabhAI_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/SaurabhAI_/status/1625053448269086721?s=20)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -37,4 +37,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/saurabhaloneai) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
