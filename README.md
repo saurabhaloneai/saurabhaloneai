@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Saurabh Alone</h1>
 <h3 align="center">git commit -m "Hello, I'm a AI Developer "</h3>
 
-![Banner](https://www.canva.com/design/DAFbATUg7vc/xi0Sh5iGXy9pwvAo6MeP_A/watch?utm_content=DAFbATUg7vc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Banner](https://github.com/saurabhaloneai/saurabhaloneai/blob/main/Untitled%20(2560%20%C3%97%201000px).mp4)
 
 -- Hi there Myself Saurabh Alone 🙋🏻‍♂️<br>-- Exploring the tech Universe 🌎<br>-- Currently Learning AI and ML 🤖<br>
 
@@ -27,7 +27,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=saurabhaloneai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-<p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SaurabhAI_/status/1625053448269086721?s=20" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
