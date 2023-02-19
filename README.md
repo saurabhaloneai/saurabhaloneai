@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=saurabhaloneai&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-➡️ Hi there Myself **Saurabh Alone** 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>➡️ Currently On to #100DaysOfCodeChallenge💻<br>
+➡️ Hi there Myself **Saurabh Alone** 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>➡️ Currently Doing #100DaysOfCodeChallenge💻<br>
 
 
 ### What are my featured projects:question::rocket:
