@@ -1,13 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Saurabh Alone</h1>
 <h3 align="center">git commit -m "Hello, I'm a AI Developer "</h3>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Banner](https://github.com/saurabhaloneai/saurabhaloneai/blob/main/Untitled%20(2560%20%C3%97%201000px)%20(1).png)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Hi there Myself Saurabh Alone 🙋🏻‍♂️<br>-- Exploring the tech Universe 🌎<br>-- Currently Learning AI and ML 🤖<br>
+
+➡️ Hi there Myself Saurabh Alone 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>
 
 
 ### What are my featured projects:question::rocket:
