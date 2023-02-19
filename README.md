@@ -4,6 +4,13 @@
 -- Hi there Myself Saurabh Alone 🙋🏻‍♂️<br>-- Exploring the tech Universe 🌎<br>-- Currently Learning AI and ML 🤖<br>
 
 
+### What are my featured projects:question::rocket:
+<code>[100DaysOfCode](https://github.com/saurabhaloneai/100daysofcode)</code>:hourglass:     
+<code>[Classification](https://github.com/saurabhaloneai/cats-vs-dogs)</code>:cat dog:  
+<code>[FDSL_python-codes](https://github.com/saurabhaloneai/FDSL_python-codes)</code>:robot: 
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/q9YN86pQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saurabh_alone_162/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurabh-alone/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@saurabhaloney85) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Saurabh-Aloney) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19282860/saurabh-alone) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SaurabhAI_) 
 
