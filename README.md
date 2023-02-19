@@ -6,7 +6,7 @@
 
 
 
-➡️ Hi there Myself **Saurabh Alone 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>
+➡️ Hi there Myself **Saurabh Alone** 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>
 
 
 ### What are my featured projects:question::rocket:
