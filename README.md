@@ -8,7 +8,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=saurabhaloneai&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
+## Konichiwa ✨
 ➡️ Hi there Myself **Saurabh Alone** 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>➡️ Present Doing #100DaysOfCodeChallenge💻<br>
 
 
