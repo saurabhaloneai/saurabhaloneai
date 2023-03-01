@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/99719265/222146704-837d3bc6-5db2-4b2a-8d1c-623533b73426.gif" width="45px"> <img src="https://user-images.githubusercontent.com/99719265/222146704-837d3bc6-5db2-4b2a-8d1c-623533b73426.gif" width="45px"> I'm Saurabh Alone</h1>
+<h1 align="center">Hi <img src="" width="30px">  I'm Saurabh Alone</h1>
 <h3 align="center">git commit -m "Hello, I'm a AI Developer "</h3>
 
 
