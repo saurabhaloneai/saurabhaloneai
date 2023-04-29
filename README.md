@@ -15,8 +15,8 @@
 ## What are my featured projects:question:<img src="https://user-images.githubusercontent.com/99719265/222153230-7756628c-4daf-4d16-9f06-e52ac3955942.gif" width="30px">
 <code>[100DaysOfCode](https://github.com/saurabhaloneai/100daysofcode)</code>:hourglass:     
 <code>[Classification](https://github.com/saurabhaloneai/cats-vs-dogs)</code>:cat:</code>:dog:  
-<code>[FDSL_python-codes](https://github.com/saurabhaloneai/FDSL_python-codes)</code>:robot: 
-<code>[using Lanchian](https://github.com/saurabhaloneai/UsingLangchain)</code>:music:
+<code>[FDSL_python-codes](https://github.com/saurabhaloneai/FDSL_python-codes)</code>:robot:  
+<code>[using Lanchian](https://github.com/saurabhaloneai/UsingLangchain)</code>:rocket:
 
 
 
