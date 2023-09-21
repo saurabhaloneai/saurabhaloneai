@@ -9,11 +9,10 @@
 [![](https://visitcount.itsvg.in/api?id=saurabhaloneai&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## Konichiwa ✨
-➡️ Hi there Myself **Saurabh Alone** 🙋🏻‍♂️<br>➡️ Exploring the tech Universe 🌎<br>➡️ Currently Learning AI and ML 🤖<br>➡️ Present Doing #100DaysOfCodeChallenge💻<br>
+➡️ I build simple Things with Neural Network 🐳<br>➡️ Sometime Complex Things Also 🐳<br>➡️ Sometime funny things also 🐳<br>
 
 
 ## What are my featured projects:question:<img src="https://user-images.githubusercontent.com/99719265/222153230-7756628c-4daf-4d16-9f06-e52ac3955942.gif" width="30px">
-<code>[100DaysOfCode](https://github.com/saurabhaloneai/100daysofcode)</code>:hourglass: 
 <code>[Classification](https://github.com/saurabhaloneai/cats-vs-dogs)</code>:cat:</code>:dog:
 <code>[FDSL_python-codes](https://github.com/saurabhaloneai/FDSL_python-codes)</code>:robot:
 <code>[using Langchain](https://github.com/saurabhaloneai/UsingLangchain)</code>:rocket:
