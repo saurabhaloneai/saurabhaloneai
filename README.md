@@ -1,1 +1,1 @@
-learning about computer
+learning about computers
